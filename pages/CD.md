@@ -3,7 +3,7 @@
 ## **Содержание**
  
 - [Карта влияний - Impact Map](#карта-влияний---impact-map)  
-- [Концепция ИТ-решения](..\pages\IT_solution_concept.md) 
+- [Концепция ИТ-решения](../pages/IT_solution_concept.md) 
 - [Контекстная диаграмма](#контекстная-диаграмма)  
 - [Концептуальная модель предметной области - UML Class](#концептуальная-модель-предметной-области---uml-class)
 - [Диаграмма состояний - UML State Machine](#диаграмма-состояний---uml-state-machine)
@@ -14,33 +14,33 @@
 #
 
 ## **Карта влияний - Impact Map**
-![Marketecture](..\images\im.jpg)
+![Marketecture](../images/im.jpg)
 #
 ## **Контекстная диаграмма**
-![Marketecture](..\images\CD.png)
+![Marketecture](../images/CD.png)
 #
 ## **Концептуальная модель предметной области - UML Class**
-<img width="750" src="..\images\CMD.jpg"> 
+<img width="750" src="../images/CMD.jpg"> 
 
 #
 ## **Диаграмма состояний - UML State Machine**
-![Marketecture](..\images\UMLSM.jpg)
+![Marketecture](../images/UMLSM.jpg)
 #
 ## **Диаграмма сценариев использования - Use Case Diagam**
-<img width="750" src="..\images\DUC.jpg"> 
+<img width="750" src="../images/DUC.jpg"> 
 
 #
 ## **План поставок по созданию ИТ-решения - User Story Map (MVP)**
-![Marketecture](..\images\USM.jpg)
+![Marketecture](../images/USM.jpg)
 
 #
 ## **Черновые макеты экрана интерфейсов системы**
 
 ### <span style="color: royalblue">**UC - 3.2 Изменение ответственного по обращению**</span>
-![Marketecture](..\images\mu.png)
+![Marketecture](../images/mu.png)
 #
 ## **Модель навигации по интерфейсу**
 ### <span style="color: royalblue">**UC - 3.2 Изменение ответственного по обращению**</span>
-<img width="400" src="..\images\mi.png">
+<img width="400" src="../images/mi.png">
 
 #

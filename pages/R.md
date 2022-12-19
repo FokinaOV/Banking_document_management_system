@@ -11,12 +11,12 @@
 
 ### <span style="color: royalblue">**Реестр Use case**</span>
 
-<img width="750" src="..\images\ruc.jpg"> 
+<img width="750" src="../images/ruc.jpg"> 
 
 #
 
 ### <span style="color: royalblue">**CRUDL**</span>
-![Marketecture](..\images\crudl.png)
+![Marketecture](../images/crudl.png)
 #
 
 ### [<span style="color: royalblue">**Сценарии использования - Use case**</span>](UC.md)
@@ -32,13 +32,13 @@
 #
 
 ## **Канонические функциональные требования**
-![Marketecture](..\images\fr.png)
+![Marketecture](../images/fr.png)
 
 #
 
 ## **Требования к внешнему качеству ИТ-решения и качеству в использовании**
 
-![Marketecture](..\images\RC.png)
+![Marketecture](../images/RC.png)
 
 Показатели атрибутов качества в использовании и внешнего качества установлены в соответствии с рекомендуемым профилем качества для класса системы Consumer web app с небольшими корректировками на кейс:
 - Атрибуты качества в интерфейсов: 

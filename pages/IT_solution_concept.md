@@ -196,6 +196,6 @@
 ## **Дополнительная информация**
 </p>
 
-<img width="600" src="..\images\ДИ_КР.png">
+<img width="600" src="../images/ДИ_КР.png">
 
 #

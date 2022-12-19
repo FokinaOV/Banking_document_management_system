@@ -10,30 +10,30 @@
 #
 
 ## **Бизнес-модель компании - Business Model Canvas**
-![Marketecture](..\images\bmc.jpg)
+![Marketecture](../images/bmc.jpg)
 #
 ## **Цепочка создания ценности - Value Chain**
-![Marketecture](..\images\vc.jpg)
+![Marketecture](../images/vc.jpg)
 #
 ## **Стратегическая карта Нортона-Каплана**
-![Marketecture](..\images\nk.png)
+![Marketecture](../images/nk.png)
 #
 ## **Модель оргструктуры**
-![Marketecture](..\images\SC.png)
+![Marketecture](../images/SC.png)
 #
 ## **Функциональное моделирование - нотация IDEF**
 ### <span style="color: royalblue">**Контекстная диаграмма А-0**</span> 
-![Marketecture](..\images\IDEF_A-0.png)
+![Marketecture](../images/IDEF_A-0.png)
 #
 ### <span style="color: royalblue">**Деятельность по предоставлению финансовых услуг. Диаграмма декомпозиции А0**</span>
-![Marketecture](..\images\IDEF_A0.png)
+![Marketecture](../images/IDEF_A0.png)
 
 
 *Оранжевым выделен блок, в рамках которого, возникла потребность изменения в процессах клиента (работа с обращениями)* 
 #
 
 ### <span style="color: royalblue">**Сервис. Работа с обращениями. Диаграмма декомпозиции А6**</span>
-![Marketecture](..\images\IDEF_A6.png)
+![Marketecture](../images/IDEF_A6.png)
 #
 
 ## **Моделирование клиентского опыта**
@@ -84,13 +84,13 @@
 
 
 
-<img width="900" src="..\images\Persona_B2B.png"> 
-<img width="900" src="..\images\Persona_B2С.png"> 
+<img width="900" src="../images/Persona_B2B.png"> 
+<img width="900" src="../images/Persona_B2С.png"> 
 </p>
 
 #
 
 ### <span style="color: royalblue">**Карта клиентского опыта - Customer Journey Map**</span>
 
-![Marketecture](..\images\CjmPB2B.png)
+![Marketecture](../images/CjmPB2B.png)
 #

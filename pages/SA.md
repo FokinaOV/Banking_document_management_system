@@ -9,33 +9,33 @@
 
 ## **Проект архитектуры - C4 model**
 ### <span style="color: royalblue">**Диаграмма системного контекста**</span> 
-![Marketecture](..\images\с4.1.png)
+![Marketecture](../images/с4.1.png)
 
 #
 
 ### <span style="color: royalblue">**Диаграмма контейнеров**</span> 
-![Marketecture](..\images\с4.2.png)
+![Marketecture](../images/с4.2.png)
 
 #
 
 ### <span style="color: royalblue">**Диаграмма компонентов**</span> 
-![Marketecture](..\images\с4.3.png)
+![Marketecture](../images/с4.3.png)
 
 #
 
 ## **Модель данных**
 
-- [Скрипт создания БД](..\doc\init_db.sql)
-- [Скрипт наполнения данными БД](..\doc\data_db.sql)
-- [Примеры запросов к БД](..\doc\query.sql)
+- [Скрипт создания БД](../doc/init_db.sql)
+- [Скрипт наполнения данными БД](../doc/data_db.sql)
+- [Примеры запросов к БД](../doc/query.sql)
 
-![Marketecture](..\images\erd.png)
+![Marketecture](../images/erd.png)
 
 #
 
 ## **Описание структуры данных через словарь данных**
 
-![Marketecture](..\images\sd.png)
+![Marketecture](../images/sd.png)
 
 
 
